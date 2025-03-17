@@ -1,0 +1,4 @@
+scene:操场|bg_playground.png|午|晴
+character:美雪|happy|left|今天天气真好啊！
+character:健太|neutral|right|是啊，适合去天台吃午饭呢
+end
